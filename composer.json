@@ -1,0 +1,19 @@
+{
+    "description": "Obtenir le courant du FCFA de l'afrique Occidentale",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Prosper SEDGO",
+            "email": "psedgo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Scrapper\\": "Scrapper/"
+        }
+    },
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "masterminds/html5": "^2.7"
+    }
+}
