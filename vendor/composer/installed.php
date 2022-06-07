@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '326c252c5071520ccc4addc677f2f82df4c4a239',
+        'reference' => 'e26144fb7bea712b0eb3202037101173c27ef1e9',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '326c252c5071520ccc4addc677f2f82df4c4a239',
+            'reference' => 'e26144fb7bea712b0eb3202037101173c27ef1e9',
             'dev_requirement' => false,
         ),
         'fabpot/goutte' => array(
